@@ -1,0 +1,1 @@
+Developed a dynamic Amazon Clone with pure HTML and CSS, replicating the e-commerce giant's seamless user interface. This project highlights my expertise in creating responsive, high-fidelity web designs that prioritize user experience.
